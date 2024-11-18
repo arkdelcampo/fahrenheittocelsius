@@ -1,0 +1,13 @@
+body {
+  width: 600px;
+  margin: 0 auto;
+  font-family: "Courier New", Courier, monospace;
+}
+
+img {
+  width: 400px;
+}
+
+#thermometer-img {
+  width: 40px;
+}
